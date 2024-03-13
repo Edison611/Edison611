@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Edison
+<h1 align="center">
+Hi there 👋 I'm Edison
+</h1>
 
 # 💫 About Me:
 I'm currently a High School Student pursuing the field of Computer Science as a future career. 

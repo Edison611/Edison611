@@ -4,7 +4,7 @@
 I'm currently a High School Student pursuing the field of Computer Science as a future career. 
 
 # 🚀 What I'm Up To
-- CapyCodeHub: a React website that performs data analysis using stats on VEX Robotics matches
+- CapyCodeHub: a React website that performs data analysis using Flask on VEX Robotics matches
 - Machine Learning: AI Object Detection Software
 
 

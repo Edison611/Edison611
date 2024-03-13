@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there 👋 I'm Edison
+Hi There! 👋 I'm Edison
 </h1>
 
 # 💫 About Me:
